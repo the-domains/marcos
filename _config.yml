@@ -1,7 +1,7 @@
 name: Marcos Macros
 favicon: null
-layout_spectrum: 0.4062325560953468
-typography_spectrum: 0.11915977415628731
+layout_spectrum: 0.75784
+typography_spectrum: 0.76102
 title: 'Photographer & Vegan in Korea'
 cta:
   domain: null
@@ -17,10 +17,10 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f99d1c'
-    - '#ffffff'
-    - '#6a4230'
-    - '#550000'
+    - '#000000'
+    - '#000000'
+    - '#000000'
+    - '#000000'
     - '#000000'
   brandStrength: 0.5
   lightness: 0.5625
